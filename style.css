@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+}
+ .footer{
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+      text-align: center;
+    background-color:beige ;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+ }
+  #start{
+      font-size: 18px;
+  }
